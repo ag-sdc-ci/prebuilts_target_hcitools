@@ -1,0 +1,8 @@
+shadow prebuilt repo: hcitools (target)
+  registry: org.blisslabs.ag.hcitools v5.64-1, Forgejo ag-ci apex repo, 2026-10-04
+  api-level: 32 (CI-built; branch 32-20261013)
+  upstream: external/hcitools
+  layout: *.apex blobs at root; base payload extracted under dev-src/;
+          root Android.bp regenerated via tools/gen_extractive_bp.py on dev-src
+          (srcs rewritten to dev-src/ prefix).
+  date: 2026-10-13
