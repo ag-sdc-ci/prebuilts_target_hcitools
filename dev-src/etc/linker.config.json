@@ -1,0 +1,17 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_hciattach-x86_64-v2.so",
+		    "libdummy_binary_hciattach.so",
+		    "libdummy_binary_hciconfig-x86_64-v2.so",
+		    "libdummy_binary_hciconfig.so",
+		    "libdummy_binary_hcitool-x86_64-v2.so",
+		    "libdummy_binary_hcitool.so",
+		    "libdummy_hcitools-x86_64-v2.so",
+		    "libdummy_hcitools.so"
+	],
+	"requireLibs": [	
+		    "libc.so",
+		    "libdl.so"
+	],
+	"visible": true
+}
